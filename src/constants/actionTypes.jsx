@@ -1,0 +1,3 @@
+export const RECEIVE_LANG = "RECEIVE_LANG";
+export const CHANGE_LANG = "CHANGE_LANG";
+export const RECEIVE_CATEGORIES = "RECEIVE_CATEGORIES";
