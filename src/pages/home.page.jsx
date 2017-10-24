@@ -7,7 +7,7 @@ class HomePage extends Component {
         super();
         //Örnek Data Çekme
         // if (!props.isHomeLangReceive) {
-        //     props.dispatch(receiveHomeLang());
+        //     props.dispatch(receiveLayoutLang());
         // }
     }
 
